@@ -73,7 +73,9 @@ In this exercise, you configured the Helm stable repository, then used a Helm ch
 Next, you'll deploy the Fruit Smoothies ratings-api to your AKS cluster.
 
 
-  
+Next **[Exercise - Deploy Ratings API](https://github.com/archanamehta/AKSWorkshop/blob/master/DeployRatingsAPI.md)** 
+
+
 
 
 

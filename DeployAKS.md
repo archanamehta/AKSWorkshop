@@ -115,6 +115,7 @@ Use the kubectl create namespace command to create a namespace for the applicati
 
 
 
+Next **[Exercise - Create Container Registry ](https://github.com/archanamehta/AKSWorkshop/blob/master/CreateContainerRegistry.md)** 
 
   
 

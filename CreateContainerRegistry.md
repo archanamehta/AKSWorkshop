@@ -93,6 +93,7 @@ In this exercise, you created a container registry for the Fruit Smoothies appli
 
 Next, you'll take the first step to deploy your ratings app. The first component you'll deploy is MongoDB as your document store database, and you'll see how to use the HELM package manager for Kubernetes.
 
+Next **[Exercise - Deploy Mongo ](https://github.com/archanamehta/AKSWorkshop/blob/master/DeployMongo.md)** 
 
     
 

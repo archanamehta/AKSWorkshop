@@ -54,7 +54,7 @@ Configure cluster autoscaler and horizontal pod autoscaler for the Fruit Smoothi
 
 
 
-Click to **[Exercise - Deploy Kubernetes with Azure Kubernetes Service](https://github.com/archanamehta/AKSWorkshop/blob/master/DeployAKS.md)** 
+Next **[Exercise - Deploy Kubernetes with Azure Kubernetes Service](https://github.com/archanamehta/AKSWorkshop/blob/master/DeployAKS.md)** 
 
 
 

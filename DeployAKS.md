@@ -103,16 +103,16 @@ kubectl is the main Kubernetes command-line client you use to interact with your
 # Create a Kubernetes namespace for the application
 Fruit Smoothies want to deploy several apps from other teams in the deployed AKS cluster as well. Instead of running multiple clusters, the company wants to use the Kubernetes features that let you logically isolate teams and workloads in the same cluster. The goal is to provide the least number of privileges scoped to the resources each team needs.
 
-What is a namespace?
+# What is a namespace?
 A namespace in Kubernetes creates a logical isolation boundary. Names of resources must be unique within a namespace but not across namespaces. If you don't specify the namespace when you work with Kubernetes resources, the default namespace is implied.
 
-Let's create a namespace for your ratings application.
-
-List the current namespaces in the cluster.
+Let's create a namespace for your ratings application. List the current namespaces in the cluster.     
     kubectl get namespace
     
 Use the kubectl create namespace command to create a namespace for the application called ratingsapp.
+    
     kubectl create namespace ratingsapp
+
 
 
 
